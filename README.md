@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
