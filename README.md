@@ -28,5 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
