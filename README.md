@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
