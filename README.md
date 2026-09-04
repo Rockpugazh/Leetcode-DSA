@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
