@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -109,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
