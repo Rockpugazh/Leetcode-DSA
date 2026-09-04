@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Counting
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -105,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
