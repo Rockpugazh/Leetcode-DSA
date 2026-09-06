@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
