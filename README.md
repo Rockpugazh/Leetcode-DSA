@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -394,10 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
