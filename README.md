@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
