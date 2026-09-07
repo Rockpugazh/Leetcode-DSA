@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1572-matrix-diagonal-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
