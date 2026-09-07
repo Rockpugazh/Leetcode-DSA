@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0322-coin-change) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0645-set-mismatch) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
 ## Bubble Sort
