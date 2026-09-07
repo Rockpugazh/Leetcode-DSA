@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0806-number-of-lines-to-write-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0912-sort-an-array) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
