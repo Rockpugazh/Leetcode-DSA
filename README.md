@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
