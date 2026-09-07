@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -566,14 +567,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -620,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
