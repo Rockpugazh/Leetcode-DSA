@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0147-insertion-sort-list) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
