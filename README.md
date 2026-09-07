@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1668-maximum-repeating-substring) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
@@ -595,11 +598,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
 |  |
