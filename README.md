@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -501,4 +505,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
