@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1920-build-array-from-permutation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
@@ -252,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
