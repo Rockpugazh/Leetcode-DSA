@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
