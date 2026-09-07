@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Combinatorics
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
