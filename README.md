@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0969-pancake-sorting](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0969-pancake-sorting) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
