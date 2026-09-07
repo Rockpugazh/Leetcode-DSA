@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2469-convert-the-temperature](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
