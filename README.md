@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0322-coin-change) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
