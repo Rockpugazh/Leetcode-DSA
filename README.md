@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
