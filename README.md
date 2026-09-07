@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0140-word-break-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
