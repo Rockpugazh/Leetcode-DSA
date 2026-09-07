@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -529,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
