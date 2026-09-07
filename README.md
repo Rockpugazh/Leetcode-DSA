@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -512,11 +515,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 ## String Matching
 |  |
 | ------- |
