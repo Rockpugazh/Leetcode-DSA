@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1668-maximum-repeating-substring) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
@@ -586,12 +588,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -645,11 +649,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Rockpugazh/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
